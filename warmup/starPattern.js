@@ -117,16 +117,16 @@
 // 1010
 // 10101
 
-for(let i = 0; i<6; i++){
-  for(let j = 0; j< i; j++){
-    if((i+j) % 2 == 0){
-      process.stdout.write("1 ");
-    }else{
-      process.stdout.write("0 ");
-    }
-  }
-  console.log();
-}
+// for(let i = 0; i<6; i++){
+//   for(let j = 0; j< i; j++){
+//     if((i+j) % 2 == 0){
+//       process.stdout.write("1 ");
+//     }else{
+//       process.stdout.write("0 ");
+//     }
+//   }
+//   console.log();
+// }
 // ------------------------------------------------------------
 // A
 // AB

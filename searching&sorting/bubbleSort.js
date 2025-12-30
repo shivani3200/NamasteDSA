@@ -16,7 +16,7 @@ function bubbleSort(arr){
             }
             
         }
-        if(isSwapped) break;
+        if(!isSwapped) break;
     }
     return arr;
 }
